@@ -70,7 +70,7 @@ Both MCUs can send commands and receive responses. Each MCU maintains its own se
 To use the **aSmart Communication Library** in your project:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-link.git
+   git clone https://github.com/emya-studio/aSmart_comm_lib
 2. Include the Library Files in Your Project
 
 ### Usage
